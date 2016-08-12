@@ -6,7 +6,10 @@ var filesToCache = [
   '/index.html',
   '/css/styles.css',
   '/js/app.js',
-  '/images/yeoman.png',
+  '/js/parallax.js',
+  '/images/background1.jpg',
+  '/images/background2.jpg',
+  '/images/background3.jpg',
   '/images/touch/chrome-touch-icon-192x192.png'
 ];
 
@@ -72,5 +75,9 @@ function sendMessage(message) {
     })
   });
 }
+
+
+
+
 
 

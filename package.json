@@ -4,13 +4,13 @@
   "version": "1.0.0",
   "author": "",
   "dependencies": {
-    "express": "^4.13.4" 
+    "express": "^4.13.4",
+    "materialize-css": "^0.97.7"
   },
   "engines": {
     "node": "4.1.1"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "scripts": {
     "start": "node server.js"
   }
